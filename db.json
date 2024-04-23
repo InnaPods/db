@@ -164,19 +164,19 @@
       "id": 1,
       "image": "/images/product-1.jpg",
       "section": "Paintings",
-      "name": ""
+      "name": "Paintings"
    },
    {
       "id": 2,
-      "name": "Bags",
+      "name": "Paintings",
       "image": "/images/product-2.jpg",
-      "section": "Health & Beauty"
+      "section": "Paintings"
    },
    {
       "id": 3,
       "image": "/images/product-3.jpg",
-      "name": "T-Shirts",
-      "section": "Fashion & Acc"
+      "name": "Paintings",
+      "section": "Paintings"
    },
    {
       "id": 4,
