@@ -164,72 +164,72 @@
       "id": 1,
       "image": "/images/product-1.jpg",
       "section": "Paintings",
-      "name": "Paintings"
+      "name": ""
    },
    {
       "id": 2,
-      "name": "Paintings",
+      "name": "",
       "image": "/images/product-2.jpg",
       "section": "Paintings"
    },
    {
       "id": 3,
       "image": "/images/product-3.jpg",
-      "name": "Paintings",
+      "name": "",
       "section": "Paintings"
    },
    {
       "id": 4,
       "image": "/images/product-4.jpg",
-      "name": "Paintings",
+      "name": "",
       "section": "Paintings"
    },
    {
       "id": 5,
       "image": "/images/product-5.jpg",
-      "name": "Paintings",
+      "name": "",
       "section": "Paintings"
    },
    {
       "id": 6,
       "image": "/images/product-7.jpg",
-      "name": "Paintings",
+      "name": "",
       "section": "Paintings"
    },
    {
       "id": 7,
       "image": "/images/product-9.jpg",
-      "name": "Paintings",
+      "name": "",
       "section": "Paintings"
    },
    {
       "id": 8,
       "image": "/images/product-8.jpg",
-      "name": "Statuettes",
+      "name": "",
       "section": "Statuettes"
    },
    {
       "id": 9,
       "image": "/images/product-9.jpg",
-      "name": "Statuettes",
+      "name": "",
       "section": "Statuettes"
    },
    {
       "id": 10,
       "image": "/images/product-10.jpg",
-      "name": "Statuettes",
+      "name": "",
       "section": "Statuettes"
    },
    {
       "id": 11,
       "image": "/images/product-11.jpg",
-      "name": "Statuettes",
+      "name": "",
       "section": "Statuettes"
    },
    {
       "id": 12,
       "image": "/images/product-12.jpg",
-      "name": "Statuettes",
+      "name": "",
       "section": "Statuettes"
    }
 ],
