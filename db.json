@@ -2,10 +2,6 @@
 "products":[
    {
       "id": 1,
-      "badge": {
-         "title": "Sold",
-         "bg": "primary"
-      },
       "image": "/images/product-1.jpg",
       "name": "Kui Ye Chen’s AirPods",
       "price": 250,
@@ -15,10 +11,6 @@
    },
    {
       "id": 2,
-      "badge": {
-         "title": "",
-         "bg": ""
-      },
       "image": "/images/product-2.jpg",
       "name": "Air Jordan 12 gym red",
       "price": 303,
@@ -28,10 +20,6 @@
    },
    {
       "id": 3,
-      "badge": {
-         "title": "New",
-         "bg": "primary"
-      },
       "image": "/images/product-3.jpg",
       "name": "Cyan cotton t-shirt",
       "price": 25,
@@ -41,10 +29,6 @@
    },
    {
       "id": 4,
-      "badge": {
-         "title": "",
-         "bg": ""
-      },
       "image": "/images/product-4.jpg",
       "name": "Timex Unisex Originals",
       "price": 151,
@@ -54,10 +38,6 @@
    },
    {
       "id": 5,
-      "badge": {
-         "title": "Sale",
-         "bg": "primary"
-      },
       "image": "/images/product-5.jpg",
       "name": "Red digital smartwatch",
       "price": 150,
@@ -67,10 +47,6 @@
    },
    {
       "id": 6,
-      "badge": {
-         "title": "",
-         "bg": ""
-      },
       "image": "/images/product-6.jpg",
       "name": "Nike air max 95",
       "price": 311,
@@ -80,10 +56,6 @@
    },
    {
       "id": 7,
-      "badge": {
-         "title": "Sale",
-         "bg": "primary"
-      },
       "image": "/images/product-7.jpg",
       "name": "Joemalone Women prefume",
       "price": 35,
@@ -93,10 +65,6 @@
    },
    {
       "id": 8,
-      "badge": {
-         "title": "",
-         "bg": ""
-      },
       "image": "/images/product-8.jpg",
       "name": "Apple Watch",
       "price": 425,
@@ -106,10 +74,6 @@
    },
    {
       "id": 9,
-      "badge": {
-         "title": "Sold",
-         "bg": "primary"
-      },
       "image": "/images/product-9.jpg",
       "name": "Men silver Byron Watch",
       "price": 551,
@@ -119,10 +83,6 @@
    },
    {
       "id": 10,
-      "badge": {
-         "title": "New",
-         "bg": "primary"
-      },
       "image": "/images/product-10.jpg",
       "name": "Ploaroid one step camera",
       "price": 166,
@@ -132,10 +92,6 @@
    },
    {
       "id": 11,
-      "badge": {
-         "title": "Sale",
-         "bg": "primary"
-      },
       "image": "/images/product-11.jpg",
       "name": "Gray Nike running shoes",
       "price": 123,
@@ -145,10 +101,6 @@
    },
    {
       "id": 12,
-      "badge": {
-         "title": "New",
-         "bg": "primary"
-      },
       "image": "/images/product-12.jpg",
       "name": "Black DSLR lense",
       "price": 100,
