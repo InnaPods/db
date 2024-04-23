@@ -7,7 +7,7 @@
          "bg": ""
       },
       "image": "/images/product-1.jpg",
-      "name": "The painting "Egyptian Power"",
+      "name": 'The painting "Egyptian Power"',
       "price": 300,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 5,
