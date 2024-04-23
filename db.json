@@ -6,7 +6,7 @@
          "title": "Sold",
          "bg": "primary"
       },
-      "image": "https://InnaPods.github.io/images/product-1.jpg",
+      "image": "/js/images/product-1.jpg",
       "name": "Kui Ye Chen’s AirPods",
       "price": 250,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -19,7 +19,7 @@
          "title": "",
          "bg": ""
       },
-      "image": "https://InnaPods.github.io/images/product-2.jpg",
+      "image": "/js/images/product-2.jpg",
       "name": "Air Jordan 12 gym red",
       "price": 303,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -32,7 +32,7 @@
          "title": "New",
          "bg": "primary"
       },
-      "image": "https://InnaPods.github.io/images/product-3.jpg",
+      "image": "js/images/product-3.jpg",
       "name": "Cyan cotton t-shirt",
       "price": 25,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
