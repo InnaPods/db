@@ -1,5 +1,5 @@
 {
-   "products":[
+"products":[
    {
       "id": 1,
       "badge": {
@@ -155,9 +155,10 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 5,
       "category": 1
-    }],
-
-   "categories":[
+    }
+],
+   
+"categories":[
    {
       "id": 1,
       "image": "/images/product-1.jpg",
@@ -230,5 +231,5 @@
       "name": "",
       "section": "Statuettes"
    }
-],
+   ]
 }
