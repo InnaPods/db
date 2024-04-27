@@ -156,32 +156,6 @@
       "stars": 5,
       "category": 1
    }
-   {
-      "id": 13,
-      "badge": {
-         "title": "",
-         "bg": ""
-      },
-      "image": "/images/product-11.jpg",
-      "name": "Maestro",
-      "price": 500,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "stars": 5,
-      "category": 5
-   },
-   {
-      "id": 14,
-      "badge": {
-         "title": "",
-         "bg": ""
-      },
-      "image": "/images/product-12.jpg",
-      "name": "Family",
-      "price": 700,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "stars": 5,
-      "category": 1
-   }
 ],
 
 
@@ -254,18 +228,6 @@
    },
    {
       "id": 12,
-      "image": "/images/product-12.jpg",
-      "name": "",
-      "section": "Statuettes"
-   }
-   {
-      "id": 13,
-      "image": "/images/product-11.jpg",
-      "name": "",
-      "section": "Statuettes"
-   },
-   {
-      "id": 14,
       "image": "/images/product-12.jpg",
       "name": "",
       "section": "Statuettes"
